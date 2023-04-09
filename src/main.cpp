@@ -21,6 +21,158 @@ typedef struct {
 	const GFXfont *gfxFont;
 } FontInfo;
 
+#include "Fonts/Autography10pt7b.h"
+#include "Fonts/Autography11pt7b.h"
+#include "Fonts/Autography12pt7b.h"
+#include "Fonts/Autography6pt7b.h"
+#include "Fonts/Autography7pt7b.h"
+#include "Fonts/Autography8pt7b.h"
+#include "Fonts/Autography9pt7b.h"
+#include "Fonts/Bachelorette10pt7b.h"
+#include "Fonts/Bachelorette11pt7b.h"
+#include "Fonts/Bachelorette12pt7b.h"
+#include "Fonts/Bachelorette6pt7b.h"
+#include "Fonts/Bachelorette7pt7b.h"
+#include "Fonts/Bachelorette8pt7b.h"
+#include "Fonts/Bachelorette9pt7b.h"
+#include "Fonts/Berastagi10pt7b.h"
+#include "Fonts/Berastagi11pt7b.h"
+#include "Fonts/Berastagi12pt7b.h"
+#include "Fonts/Berastagi13pt7b.h"
+#include "Fonts/Berastagi14pt7b.h"
+#include "Fonts/Berastagi6pt7b.h"
+#include "Fonts/Berastagi7pt7b.h"
+#include "Fonts/Berastagi8pt7b.h"
+#include "Fonts/Berastagi9pt7b.h"
+#include "Fonts/Bucheon_Monospaced10pt7b.h"
+#include "Fonts/Bucheon_Monospaced11pt7b.h"
+#include "Fonts/Bucheon_Monospaced12pt7b.h"
+#include "Fonts/Bucheon_Monospaced6pt7b.h"
+#include "Fonts/Bucheon_Monospaced7pt7b.h"
+#include "Fonts/Bucheon_Monospaced8pt7b.h"
+#include "Fonts/Bucheon_Monospaced9pt7b.h"
+#include "Fonts/Cream_Cake10pt7b.h"
+#include "Fonts/Cream_Cake11pt7b.h"
+#include "Fonts/Cream_Cake12pt7b.h"
+#include "Fonts/Cream_Cake13pt7b.h"
+#include "Fonts/Cream_Cake14pt7b.h"
+#include "Fonts/Cream_Cake6pt7b.h"
+#include "Fonts/Cream_Cake7pt7b.h"
+#include "Fonts/Cream_Cake8pt7b.h"
+#include "Fonts/Cream_Cake9pt7b.h"
+#include "Fonts/Font2x5FixedMonoNum.h"
+#include "Fonts/Font3x5FixedNum.h"
+#include "Fonts/Font4x5Fixed.h"
+#include "Fonts/Font4x7Fixed.h"
+#include "Fonts/Font5x7FixedMono.h"
+#include "Fonts/FreeMono12pt7b.h"
+#include "Fonts/FreeMono18pt7b.h"
+#include "Fonts/FreeMono24pt7b.h"
+#include "Fonts/FreeMono9pt7b.h"
+#include "Fonts/FreeMonoBold12pt7b.h"
+#include "Fonts/FreeMonoBold18pt7b.h"
+#include "Fonts/FreeMonoBold24pt7b.h"
+#include "Fonts/FreeMonoBold9pt7b.h"
+#include "Fonts/FreeMonoBoldOblique12pt7b.h"
+#include "Fonts/FreeMonoBoldOblique18pt7b.h"
+#include "Fonts/FreeMonoBoldOblique24pt7b.h"
+#include "Fonts/FreeMonoBoldOblique9pt7b.h"
+#include "Fonts/FreeMonoOblique12pt7b.h"
+#include "Fonts/FreeMonoOblique18pt7b.h"
+#include "Fonts/FreeMonoOblique24pt7b.h"
+#include "Fonts/FreeMonoOblique9pt7b.h"
+#include "Fonts/FreeSans12pt7b.h"
+#include "Fonts/FreeSans18pt7b.h"
+#include "Fonts/FreeSans24pt7b.h"
+#include "Fonts/FreeSans6pt7b.h"
+#include "Fonts/FreeSans9pt7b.h"
+#include "Fonts/FreeSansBold12pt7b.h"
+#include "Fonts/FreeSansBold18pt7b.h"
+#include "Fonts/FreeSansBold24pt7b.h"
+#include "Fonts/FreeSansBold9pt7b.h"
+#include "Fonts/FreeSansBoldOblique12pt7b.h"
+#include "Fonts/FreeSansBoldOblique18pt7b.h"
+#include "Fonts/FreeSansBoldOblique24pt7b.h"
+#include "Fonts/FreeSansBoldOblique9pt7b.h"
+#include "Fonts/FreeSansOblique12pt7b.h"
+#include "Fonts/FreeSansOblique18pt7b.h"
+#include "Fonts/FreeSansOblique24pt7b.h"
+#include "Fonts/FreeSansOblique9pt7b.h"
+#include "Fonts/FreeSerif12pt7b.h"
+#include "Fonts/FreeSerif18pt7b.h"
+#include "Fonts/FreeSerif24pt7b.h"
+#include "Fonts/FreeSerif9pt7b.h"
+#include "Fonts/FreeSerifBold12pt7b.h"
+#include "Fonts/FreeSerifBold18pt7b.h"
+#include "Fonts/FreeSerifBold24pt7b.h"
+#include "Fonts/FreeSerifBold9pt7b.h"
+#include "Fonts/FreeSerifBoldItalic12pt7b.h"
+#include "Fonts/FreeSerifBoldItalic18pt7b.h"
+#include "Fonts/FreeSerifBoldItalic24pt7b.h"
+#include "Fonts/FreeSerifBoldItalic9pt7b.h"
+#include "Fonts/FreeSerifItalic12pt7b.h"
+#include "Fonts/FreeSerifItalic18pt7b.h"
+#include "Fonts/FreeSerifItalic24pt7b.h"
+#include "Fonts/FreeSerifItalic9pt7b.h"
+#include "Fonts/Graph_35_pix4pt7b.h"
+#include "Fonts/Graph_35_pix8pt7b.h"
+#include "Fonts/LEMONMILK_LightItalic10pt7b.h"
+#include "Fonts/LEMONMILK_LightItalic6pt7b.h"
+#include "Fonts/LEMONMILK_LightItalic7pt7b.h"
+#include "Fonts/LEMONMILK_LightItalic8pt7b.h"
+#include "Fonts/LEMONMILK_LightItalic9pt7b.h"
+#include "Fonts/LEMONMILK_Medium10pt7b.h"
+#include "Fonts/LEMONMILK_Medium11pt7b.h"
+#include "Fonts/LEMONMILK_Medium12pt7b.h"
+#include "Fonts/LEMONMILK_Medium6pt7b.h"
+#include "Fonts/LEMONMILK_Medium7pt7b.h"
+#include "Fonts/LEMONMILK_Medium8pt7b.h"
+#include "Fonts/LEMONMILK_Medium9pt7b.h"
+#include "Fonts/LEMONMILK_RegularItalic_10pt7b.h"
+#include "Fonts/LEMONMILK_RegularItalic_11pt7b.h"
+#include "Fonts/LEMONMILK_RegularItalic_12pt7b.h"
+#include "Fonts/LEMONMILK_RegularItalic_6pt7b.h"
+#include "Fonts/LEMONMILK_RegularItalic_7pt7b.h"
+#include "Fonts/LEMONMILK_RegularItalic_8pt7b.h"
+#include "Fonts/LEMONMILK_RegularItalic_9pt7b.h"
+#include "Fonts/LEMONMILK_Regular_10pt7b.h"
+#include "Fonts/LEMONMILK_Regular_11pt7b.h"
+#include "Fonts/LEMONMILK_Regular_12pt7b.h"
+#include "Fonts/LEMONMILK_Regular_6pt7b.h"
+#include "Fonts/LEMONMILK_Regular_7pt7b.h"
+#include "Fonts/LEMONMILK_Regular_8pt7b.h"
+#include "Fonts/LEMONMILK_Regular_9pt7b.h"
+#include "Fonts/MotorolaScreentype6pt7b.h"
+#include "Fonts/nokiafc224pt7b.h"
+#include "Fonts/nokiafc228pt7b.h"
+#include "Fonts/Open_Sans_Bold_12pt.h"
+#include "Fonts/Open_Sans_Bold_12pt.txt"
+#include "Fonts/Open_Sans_Bold_36pt.h"
+#include "Fonts/Open_Sans_Bold_36pt.txt"
+#include "Fonts/Open_Sans_Bold_8pt.h"
+#include "Fonts/Open_Sans_Bold_8pt.txt"
+#include "Fonts/Open_Sans_Italic_12pt.h"
+#include "Fonts/Open_Sans_Italic_14pt.h"
+#include "Fonts/Open_Sans_Italic_16pt.h"
+#include "Fonts/Open_Sans_Italic_20pt.h"
+#include "Fonts/Open_Sans_Italic_24pt.h"
+#include "Fonts/Open_Sans_Italic_28pt.h"
+#include "Fonts/Open_Sans_Italic_36pt.h"
+#include "Fonts/Open_Sans_Italic_8pt.h"
+#include "Fonts/Org_01.h"
+#include "Fonts/Picopixel.h"
+#include "Fonts/pixelmix6pt7b.h"
+#include "Fonts/Rubble13.h"
+#include "Fonts/Tiny3x3a2pt7b.h"
+#include "Fonts/TomThumb.h"
+#include "Fonts/Zector10pt7b.h"
+#include "Fonts/Zector11pt7b.h"
+#include "Fonts/Zector12pt7b.h"
+#include "Fonts/Zector6pt7b.h"
+#include "Fonts/Zector7pt7b.h"
+#include "Fonts/Zector8pt7b.h"
+#include "Fonts/Zector9pt7b.h"
+
 #include "Fonts/FreeMono9pt7b.h"
 #include "Fonts/FreeMono12pt7b.h"
 #include "Fonts/FreeMono18pt7b.h"
@@ -78,6 +230,158 @@ typedef struct {
 #include "Fonts/TomThumb.h"
 
 FontInfo fontInfo[] = {
+		{ "Autography10pt7b", &Autography10pt7b },
+		{ "Autography11pt7b", &Autography11pt7b },
+		{ "Autography12pt7b", &Autography12pt7b },
+		{ "Autography6pt7b", &Autography6pt7b },
+		{ "Autography7pt7b", &Autography7pt7b },
+		{ "Autography8pt7b", &Autography8pt7b },
+		{ "Autography9pt7b", &Autography9pt7b },
+		{ "Bachelorette10pt7b", &Bachelorette10pt7b },
+		{ "Bachelorette11pt7b", &Bachelorette11pt7b },
+		{ "Bachelorette12pt7b", &Bachelorette12pt7b },
+		{ "Bachelorette6pt7b", &Bachelorette6pt7b },
+		{ "Bachelorette7pt7b", &Bachelorette7pt7b },
+		{ "Bachelorette8pt7b", &Bachelorette8pt7b },
+		{ "Bachelorette9pt7b", &Bachelorette9pt7b },
+		{ "Berastagi10pt7b", &Berastagi10pt7b },
+		{ "Berastagi11pt7b", &Berastagi11pt7b },
+		{ "Berastagi12pt7b", &Berastagi12pt7b },
+		{ "Berastagi13pt7b", &Berastagi13pt7b },
+		{ "Berastagi14pt7b", &Berastagi14pt7b },
+		{ "Berastagi6pt7b", &Berastagi6pt7b },
+		{ "Berastagi7pt7b", &Berastagi7pt7b },
+		{ "Berastagi8pt7b", &Berastagi8pt7b },
+		{ "Berastagi9pt7b", &Berastagi9pt7b },
+		{ "Bucheon_Monospaced10pt7b", &Bucheon_Monospaced10pt7b },
+		{ "Bucheon_Monospaced11pt7b", &Bucheon_Monospaced11pt7b },
+		{ "Bucheon_Monospaced12pt7b", &Bucheon_Monospaced12pt7b },
+		{ "Bucheon_Monospaced6pt7b", &Bucheon_Monospaced6pt7b },
+		{ "Bucheon_Monospaced7pt7b", &Bucheon_Monospaced7pt7b },
+		{ "Bucheon_Monospaced8pt7b", &Bucheon_Monospaced8pt7b },
+		{ "Bucheon_Monospaced9pt7b", &Bucheon_Monospaced9pt7b },
+		{ "Cream_Cake10pt7b", &Cream_Cake10pt7b },
+		{ "Cream_Cake11pt7b", &Cream_Cake11pt7b },
+		{ "Cream_Cake12pt7b", &Cream_Cake12pt7b },
+		{ "Cream_Cake13pt7b", &Cream_Cake13pt7b },
+		{ "Cream_Cake14pt7b", &Cream_Cake14pt7b },
+		{ "Cream_Cake6pt7b", &Cream_Cake6pt7b },
+		{ "Cream_Cake7pt7b", &Cream_Cake7pt7b },
+		{ "Cream_Cake8pt7b", &Cream_Cake8pt7b },
+		{ "Cream_Cake9pt7b", &Cream_Cake9pt7b },
+		{ "Font2x5FixedMonoNum", &Font2x5FixedMonoNum },
+		{ "Font3x5FixedNum", &Font3x5FixedNum },
+		{ "Font4x5Fixed", &Font4x5Fixed },
+		{ "Font4x7Fixed", &Font4x7Fixed },
+		{ "Font5x7FixedMono", &Font5x7FixedMono },
+		{ "FreeMono12pt7b", &FreeMono12pt7b },
+		{ "FreeMono18pt7b", &FreeMono18pt7b },
+		{ "FreeMono24pt7b", &FreeMono24pt7b },
+		{ "FreeMono9pt7b", &FreeMono9pt7b },
+		{ "FreeMonoBold12pt7b", &FreeMonoBold12pt7b },
+		{ "FreeMonoBold18pt7b", &FreeMonoBold18pt7b },
+		{ "FreeMonoBold24pt7b", &FreeMonoBold24pt7b },
+		{ "FreeMonoBold9pt7b", &FreeMonoBold9pt7b },
+		{ "FreeMonoBoldOblique12pt7b", &FreeMonoBoldOblique12pt7b },
+		{ "FreeMonoBoldOblique18pt7b", &FreeMonoBoldOblique18pt7b },
+		{ "FreeMonoBoldOblique24pt7b", &FreeMonoBoldOblique24pt7b },
+		{ "FreeMonoBoldOblique9pt7b", &FreeMonoBoldOblique9pt7b },
+		{ "FreeMonoOblique12pt7b", &FreeMonoOblique12pt7b },
+		{ "FreeMonoOblique18pt7b", &FreeMonoOblique18pt7b },
+		{ "FreeMonoOblique24pt7b", &FreeMonoOblique24pt7b },
+		{ "FreeMonoOblique9pt7b", &FreeMonoOblique9pt7b },
+		{ "FreeSans12pt7b", &FreeSans12pt7b },
+		{ "FreeSans18pt7b", &FreeSans18pt7b },
+		{ "FreeSans24pt7b", &FreeSans24pt7b },
+		{ "FreeSans6pt7b", &FreeSans6pt7b },
+		{ "FreeSans9pt7b", &FreeSans9pt7b },
+		{ "FreeSansBold12pt7b", &FreeSansBold12pt7b },
+		{ "FreeSansBold18pt7b", &FreeSansBold18pt7b },
+		{ "FreeSansBold24pt7b", &FreeSansBold24pt7b },
+		{ "FreeSansBold9pt7b", &FreeSansBold9pt7b },
+		{ "FreeSansBoldOblique12pt7b", &FreeSansBoldOblique12pt7b },
+		{ "FreeSansBoldOblique18pt7b", &FreeSansBoldOblique18pt7b },
+		{ "FreeSansBoldOblique24pt7b", &FreeSansBoldOblique24pt7b },
+		{ "FreeSansBoldOblique9pt7b", &FreeSansBoldOblique9pt7b },
+		{ "FreeSansOblique12pt7b", &FreeSansOblique12pt7b },
+		{ "FreeSansOblique18pt7b", &FreeSansOblique18pt7b },
+		{ "FreeSansOblique24pt7b", &FreeSansOblique24pt7b },
+		{ "FreeSansOblique9pt7b", &FreeSansOblique9pt7b },
+		{ "FreeSerif12pt7b", &FreeSerif12pt7b },
+		{ "FreeSerif18pt7b", &FreeSerif18pt7b },
+		{ "FreeSerif24pt7b", &FreeSerif24pt7b },
+		{ "FreeSerif9pt7b", &FreeSerif9pt7b },
+		{ "FreeSerifBold12pt7b", &FreeSerifBold12pt7b },
+		{ "FreeSerifBold18pt7b", &FreeSerifBold18pt7b },
+		{ "FreeSerifBold24pt7b", &FreeSerifBold24pt7b },
+		{ "FreeSerifBold9pt7b", &FreeSerifBold9pt7b },
+		{ "FreeSerifBoldItalic12pt7b", &FreeSerifBoldItalic12pt7b },
+		{ "FreeSerifBoldItalic18pt7b", &FreeSerifBoldItalic18pt7b },
+		{ "FreeSerifBoldItalic24pt7b", &FreeSerifBoldItalic24pt7b },
+		{ "FreeSerifBoldItalic9pt7b", &FreeSerifBoldItalic9pt7b },
+		{ "FreeSerifItalic12pt7b", &FreeSerifItalic12pt7b },
+		{ "FreeSerifItalic18pt7b", &FreeSerifItalic18pt7b },
+		{ "FreeSerifItalic24pt7b", &FreeSerifItalic24pt7b },
+		{ "FreeSerifItalic9pt7b", &FreeSerifItalic9pt7b },
+		{ "Graph_35_pix4pt7b", &Graph_35_pix4pt7b },
+		{ "Graph_35_pix8pt7b", &Graph_35_pix8pt7b },
+		{ "LEMONMILK_LightItalic10pt7b", &LEMONMILK_LightItalic10pt7b },
+		{ "LEMONMILK_LightItalic6pt7b", &LEMONMILK_LightItalic6pt7b },
+		{ "LEMONMILK_LightItalic7pt7b", &LEMONMILK_LightItalic7pt7b },
+		{ "LEMONMILK_LightItalic8pt7b", &LEMONMILK_LightItalic8pt7b },
+		{ "LEMONMILK_LightItalic9pt7b", &LEMONMILK_LightItalic9pt7b },
+		{ "LEMONMILK_Medium10pt7b", &LEMONMILK_Medium10pt7b },
+		{ "LEMONMILK_Medium11pt7b", &LEMONMILK_Medium11pt7b },
+		{ "LEMONMILK_Medium12pt7b", &LEMONMILK_Medium12pt7b },
+		{ "LEMONMILK_Medium6pt7b", &LEMONMILK_Medium6pt7b },
+		{ "LEMONMILK_Medium7pt7b", &LEMONMILK_Medium7pt7b },
+		{ "LEMONMILK_Medium8pt7b", &LEMONMILK_Medium8pt7b },
+		{ "LEMONMILK_Medium9pt7b", &LEMONMILK_Medium9pt7b },
+		{ "LEMONMILK_RegularItalic_10pt7b", &LEMONMILK_RegularItalic_10pt7b },
+		{ "LEMONMILK_RegularItalic_11pt7b", &LEMONMILK_RegularItalic_11pt7b },
+		{ "LEMONMILK_RegularItalic_12pt7b", &LEMONMILK_RegularItalic_12pt7b },
+		{ "LEMONMILK_RegularItalic_6pt7b", &LEMONMILK_RegularItalic_6pt7b },
+		{ "LEMONMILK_RegularItalic_7pt7b", &LEMONMILK_RegularItalic_7pt7b },
+		{ "LEMONMILK_RegularItalic_8pt7b", &LEMONMILK_RegularItalic_8pt7b },
+		{ "LEMONMILK_RegularItalic_9pt7b", &LEMONMILK_RegularItalic_9pt7b },
+		{ "LEMONMILK_Regular_10pt7b", &LEMONMILK_Regular_10pt7b },
+		{ "LEMONMILK_Regular_11pt7b", &LEMONMILK_Regular_11pt7b },
+		{ "LEMONMILK_Regular_12pt7b", &LEMONMILK_Regular_12pt7b },
+		{ "LEMONMILK_Regular_6pt7b", &LEMONMILK_Regular_6pt7b },
+		{ "LEMONMILK_Regular_7pt7b", &LEMONMILK_Regular_7pt7b },
+		{ "LEMONMILK_Regular_8pt7b", &LEMONMILK_Regular_8pt7b },
+		{ "LEMONMILK_Regular_9pt7b", &LEMONMILK_Regular_9pt7b },
+		{ "MotorolaScreentype6pt7b", &MotorolaScreentype6pt7b },
+		{ "nokiafc224pt7b", &nokiafc224pt7b },
+		{ "nokiafc228pt7b", &nokiafc228pt7b },
+		{ "Open_Sans_Bold_12pt", &Open_Sans_Bold_12pt },
+		{ "Open_Sans_Bold_12pt.txt", &Open_Sans_Bold_12pt.txt
+		{ "Open_Sans_Bold_36pt", &Open_Sans_Bold_36pt },
+		{ "Open_Sans_Bold_36pt.txt", &Open_Sans_Bold_36pt.txt
+		{ "Open_Sans_Bold_8pt", &Open_Sans_Bold_8pt },
+		{ "Open_Sans_Bold_8pt.txt", &Open_Sans_Bold_8pt.txt
+		{ "Open_Sans_Italic_12pt", &Open_Sans_Italic_12pt },
+		{ "Open_Sans_Italic_14pt", &Open_Sans_Italic_14pt },
+		{ "Open_Sans_Italic_16pt", &Open_Sans_Italic_16pt },
+		{ "Open_Sans_Italic_20pt", &Open_Sans_Italic_20pt },
+		{ "Open_Sans_Italic_24pt", &Open_Sans_Italic_24pt },
+		{ "Open_Sans_Italic_28pt", &Open_Sans_Italic_28pt },
+		{ "Open_Sans_Italic_36pt", &Open_Sans_Italic_36pt },
+		{ "Open_Sans_Italic_8pt", &Open_Sans_Italic_8pt },
+		{ "Org_01", &Org_01 },
+		{ "Picopixel", &Picopixel },
+		{ "pixelmix6pt7b", &pixelmix6pt7b },
+		{ "Rubble13", &Rubble13 },
+		{ "Tiny3x3a2pt7b", &Tiny3x3a2pt7b },
+		{ "TomThumb", &TomThumb },
+		{ "Zector10pt7b", &Zector10pt7b },
+		{ "Zector11pt7b", &Zector11pt7b },
+		{ "Zector12pt7b", &Zector12pt7b },
+		{ "Zector6pt7b", &Zector6pt7b },
+		{ "Zector7pt7b", &Zector7pt7b },
+		{ "Zector8pt7b", &Zector8pt7b },
+		{ "Zector9pt7b", &Zector9pt7b },
+
 		{ "FreeMono9pt7b", &FreeMono9pt7b },
 		{ "FreeMono12pt7b", &FreeMono12pt7b },
 		{ "FreeMono18pt7b", &FreeMono18pt7b },
